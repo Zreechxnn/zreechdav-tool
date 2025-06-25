@@ -67,7 +67,7 @@ deface-script-uploader/
 | Feature               | Specification          |
 |-----------------------|------------------------|
 | Targets Processed     | 100+ per minute       |
-| Success Rate          | 85-95% (varies)       |
+| Success Rate          | ?% (varies)       |
 | Resource Usage        | Low memory footprint  |
 | Connection Handling   | Parallel processing   |
 
