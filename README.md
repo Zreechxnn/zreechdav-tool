@@ -1,7 +1,7 @@
 
 # 🔥 Deface Script Uploader
 
-![Application Screenshot](https://via.placeholder.com/800x400.png?text=Deface+Script+Uploader+Interface)
+![Application Screenshot](https://github.com/Zreechxnn/Zreechxnn/blob/asset/zreechdav.png)
 
 A sophisticated Java-based tool for mass uploading deface scripts to multiple web targets with a sleek dark-themed interface and real-time progress tracking.
 
