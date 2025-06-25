@@ -1,6 +1,4 @@
-# README.md
 
-```markdown
 # 🔥 Deface Script Uploader
 
 ![Application Screenshot](https://via.placeholder.com/800x400.png?text=Deface+Script+Uploader+Interface)
