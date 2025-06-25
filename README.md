@@ -25,10 +25,10 @@ A sophisticated Java-based tool for mass uploading deface scripts to multiple we
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/deface-script-uploader.git
+git clone https://github.com/Zreechxnn/zreechdav-tool.git
 
 # Compile the application
-cd deface-script-uploader
+cd zreechdav
 javac zreechdav.java
 
 # Create targets file
