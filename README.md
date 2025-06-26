@@ -28,7 +28,7 @@ A sophisticated Java-based tool for mass uploading deface scripts to multiple we
 git clone https://github.com/Zreechxnn/zreechdav-tool.git
 
 # Compile the application
-cd zreechdav
+cd zreechdav-tool
 javac zreechdav.java
 
 # Create targets file
