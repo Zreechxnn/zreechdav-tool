@@ -108,16 +108,3 @@ MIT License - see [LICENSE](LICENSE) file for details
 ---
 
 > "With great power comes great responsibility" - Use ethically and legally
-```
-
-This README provides:
-1. Eye-catching emojis and headers
-2. Clear installation and usage instructions
-3. Visual structure diagram
-4. Technical workflow with mermaid sequence diagram
-5. Performance metrics table
-6. Important legal and ethical considerations
-7. Modern dark UI screenshot placeholder
-8. Responsive design that looks great on GitHub
-
-You should replace the placeholder screenshot with an actual image of your application in action for maximum impact.
