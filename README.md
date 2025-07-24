@@ -48,20 +48,6 @@ java zreechdav
 4. Green entries = successful uploads, Red entries = failures
 5. Click "Stop Upload" anytime to pause the process
 
-## 🖼️ Application Structure
-
-```
-deface-script-uploader/
-├── src/
-│   └── zreechdav.java        # Main application
-├── resources/
-│   ├── icon.png              # Application icon
-│   └── name.png              # Branding graphic
-├── targets.txt               # Target websites list
-├── script.html               # Example deface script
-└── README.md                 # This documentation
-```
-
 ## ⚡ Performance Metrics
 
 | Feature               | Specification          |
