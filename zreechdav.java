@@ -18,7 +18,7 @@ public class zreechdav extends JFrame {
     private JLabel browseLabel, startLabel;
     private JProgressBar progressBar;
     private JLabel statusLabel;
-    private JPanel bannerPanel;
+    private JPanel bannerPanel; 
 
     // Variabel kontrol
     private volatile boolean isRunning = false;
